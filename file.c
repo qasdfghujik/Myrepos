@@ -5,5 +5,14 @@
 int main(void)
 {
 	printf("xxxxxx");
-	return 0;
+	printf("xxxxxx");
+	printf("xxxxxx");
+	printf("xxxxxx");
+	printf("xxxxxx");
+
+
+
+	printf("xxxxxx");
+	printf("xxxxxx");
+	printf("xxxxxx");
 }
